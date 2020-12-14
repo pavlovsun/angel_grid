@@ -27,6 +27,14 @@ header div.href-head contact,service{
     display: grid;
     grid-template-columns: repeat(auto-fit,20%);
 }
+/* CONTENT */
+.top-bottom{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.bottom{
+    margin-bottom: 5%;
+}
 /*Font*/
 a{
     font-family: 'Roboto', sans-serif !important;
@@ -388,7 +396,7 @@ figcaption{
     text-align: center;
 }
 /* SHOP */
-.shop1{
+.shop-tab{
     display: grid;
     grid-template-columns: repeat(auto-fit, 290px);
 }
@@ -418,7 +426,7 @@ figcaption{
     grid-template-columns: repeat(auto-fit,300px);
 }
 /* FOOTER */
-.footer{
+footer{
     height: 100%;
     margin-top: 10%;
     background-color: #09100D;
