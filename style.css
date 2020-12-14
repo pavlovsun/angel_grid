@@ -59,11 +59,12 @@ h2{
 content div#content div#girl p, div#child p, div#shop p{
     text-align: center;
 }
-network{
+h3{
     font-family: 'Roboto', sans-serif !important;
     color: #FDFDFD;
     text-decoration: none;      /*Убираем подчёркивание текста*/
     font-size: 1.1vw; 
+    font-weight: normal;
 }
 figcaption{
     font-family: 'Roboto', sans-serif !important;
